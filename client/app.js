@@ -1,3 +1,6 @@
+//Author: Alexander Adu-Sarkodie
+//Platform: Clientside
+
 window.onload = function() {
 
   // Get references to elements on the page.
