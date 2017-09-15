@@ -10,9 +10,9 @@ With package.json, npm install all the dependencies required
 
 ###### run : node server
 
-Now npm will start server at port 8080.
+Now npm will start server at port 9090.
 
-Now open two windows on http://localhost:8080/
+Now open two windows on http://localhost:9090/
 
 type your text and you will see the broadcast on to the second page, 
 you type text in the text box of second page, you will see the broadcast on to the first page.
